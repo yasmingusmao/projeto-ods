@@ -31,3 +31,7 @@ O aplicativo opera com uma interface dinâmica segmentada em duas grandes camada
 * **Sociais:** Redução de acidentes e problemas de saúde pública associados a praias poluídas ou condições adversas do mar.
 
 ---
+
+### Conclusão
+* **O OceanGuard:** é uma proposta de solução tecnológica voltada para a preservação dos oceanos e o uso sustentável dos recursos marinhos. Por meio do monitoramento ambiental, da geolocalização e da emissão de alertas em tempo real, a plataforma busca atender às necessidades de pescadores, banhistas e órgãos ambientais.
+Alinhado ao ODS 14 da ONU, o projeto demonstra como a tecnologia pode contribuir para a conservação dos ecossistemas marinhos, promovendo benefícios ambientais, sociais e econômicos para as comunidades costeiras e para a sociedade como um todo.
