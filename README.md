@@ -23,3 +23,11 @@ O aplicativo opera com uma interface dinâmica segmentada em duas grandes camada
 * **Alertas Ambientais em Tempo Real:** Notificações de emergências como manchas de óleo, esgoto, surto de águas-vivas ou condições de marés perigosas.
 
 ---
+
+## Benefícios Esperados
+
+* **Ambientais:** Redução drástica da pesca em áreas de berçários, recuperação de populações de espécies ameaçadas e monitoramento ativo da qualidade da água costeira.
+* **Económicos:** Inclusão digital e valorização do pescado de origem controlada, eliminando intermediários abusivos no comércio artesanal.
+* **Sociais:** Redução de acidentes e problemas de saúde pública associados a praias poluídas ou condições adversas do mar.
+
+---
