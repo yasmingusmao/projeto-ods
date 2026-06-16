@@ -1,0 +1,8 @@
+      Tecnologias Utilizadas Neste Projeto
+ 
+* Front-end: React e React Native;
+* Back-end: Node.js e Express;
+* Banco de Dados: PostgreSQL ou MongoDB;
+* Mapas e geolocalização: Google Maps API ou OpenStreetMap;
+* Nuvem: Firebase ou AWS;
+* Controle de versão: Git e GitHub. 
